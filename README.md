@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Daisha
 #### I am Software Developer and Recording Artist residing in Atlanta, GA
-![I am Software Developer and Recording Artist residing in Atlanta, GA](https://imgur.com/a/jMshTOa)
+
+![github-header-image (2)](https://user-images.githubusercontent.com/89038713/172903320-828b55b8-9fcd-459a-bcbd-2e58af8867a4.png)
+
 
 I'm interning at Adobe and I write songs for movies, TV shows, and commercials. As a software engineer I look forward to creating tools to help people get inspired and be creative. 
 
